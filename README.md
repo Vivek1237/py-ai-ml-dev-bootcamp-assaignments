@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vivek1237
+- 👀 I’m interested in DATA SCIENCE
+- 🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING
